@@ -3400,7 +3400,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/logo.jpeg')},
-                            hydratedFooterText: `</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷`,
+                            hydratedFooterText: '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '🔥 YOUTUBE 🔥',
@@ -3436,14 +3436,29 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                      case 'bot':{
                            	timestampe = speed();
 latensie = speed() - timestampe
- anu = `╹🔥 [🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹\n🎲 𝐎𝐰𝐧𝐞𝐫 & 𝐅𝐨𝐮𝐧𝐝𝐞𝐫 - ᏔᎻᏆͲᎬ ᎻᎪᏟᏦᎬᎡՏ\n🎲 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 - ΝϴᎠᎬ.ᎫՏ\n\n           *🍒 ᴀᴅᴍɪɴ ™🍒*\n\n🔰 ᴀᴄʜɪ ғᴇʀɴᴀɴᴅᴏ\n🔰 ᴍʀ ɴɪᴍᴀ\n🔰 ᴘʀᴀᴠᴇᴇɴ ᴊᴀʏᴀʟᴀᴛʜ\n🔰 ɪɴᴜᴋᴀ\n🔰 ᴜᴄʜɪᴛʜᴀ\n\n\n         *🔰 ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ 🔰*\n\n  *🔥 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐜𝐡𝐨𝐨𝐬𝐢𝐧𝐠 [🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] 🔥*` `
+ anu = `╹🔥 [🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹
+ 
+ 🎲 𝐎𝐰𝐧𝐞𝐫 & 𝐅𝐨𝐮𝐧𝐝𝐞𝐫 - ᏔᎻᏆͲᎬ ᎻᎪᏟᏦᎬᎡՏ
+ 🎲 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 - ΝϴᎠᎬ.ᎫՏ
+ 
+            *🍒 ᴀᴅᴍɪɴ ™🍒*
+            
+🔰 ᴀᴄʜɪ ғᴇʀɴᴀɴᴅᴏ
+🔰 ᴍʀ ɴɪᴍᴀ
+🔰 ᴘʀᴀᴠᴇᴇɴ ᴊᴀʏᴀʟᴀᴛʜ
+🔰 ɪɴᴜᴋᴀ
+            
+            
+             *🔰 ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ 🔰*
+                     
+  *🔥 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐜𝐡𝐨𝐨𝐬𝐢𝐧𝐠 [🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] 🔥*` `
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/logo.jpeg')},
-                            hydratedFooterText: `</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷`,
+                            hydratedFooterText: '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '🔥YouTube🔥',
