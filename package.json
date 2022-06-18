@@ -1,6 +1,6 @@
 {
-  "name": "Gojo-Satoru",
-  "version": "2.0.0",
+  "name": "KING-BOT",
+  "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
@@ -11,14 +11,14 @@
     "termux",
     "whatsapp",
     "2022",
-    "GojoSatoru",
+    "kingbot",
     "base",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
+  "author": "gimhan",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",

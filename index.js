@@ -53,7 +53,7 @@ async function startGojoMdNx() {
     const GojoMdNx = NexusNwIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Gojo Satoru\Nexus','Safari','1.0.0'],
+        browser: ['KING BOT\WHITE HACKERS','Safari','1.0.0'],
         auth: state
     })
 
